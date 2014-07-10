@@ -1,0 +1,4 @@
+build/*.phar
+composer.phar
+vendor/
+.idea

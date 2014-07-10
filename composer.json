@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "~2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Paxal\\Airplay\\": "src/lib/"
+        }
+    },
+    "minimum-stability": "stable"
+}
